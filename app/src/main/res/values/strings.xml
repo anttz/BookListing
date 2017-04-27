@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="keyword_textview_hint">Type a book title or a keyword</string>
+    <string name="search_button">Search</string>
+    <string name="empty_textview_text">Not Found</string>
+    <string name="author_textview">Author</string>
+    <string name="title_textview">Title</string>
+    <string name="no_books_found">No Books Found</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="instructions_text">Type a book title or a keyword at the top of the screen and tap on the SEARCH button</string>
+</resources>
